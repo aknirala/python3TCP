@@ -15,7 +15,7 @@ import random
 # In[ ]:
 
 
-totalTasks = 30
+totalTasks = 1000
 repAllTasks = 10
 d = {}
 for i in range(totalTasks):
